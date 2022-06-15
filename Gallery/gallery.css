@@ -1,0 +1,51 @@
+.banner{
+    width: 100%;
+    height: 200px;
+    background-size:100%;
+    background-image:
+    linear-gradient(269.85deg, rgba(30, 24, 21, 0.52) 30.09%, rgba(196, 196, 196, 0) 99.9%),
+    url('../Gallery/banner.png');
+    text-align:end;
+    align-items: center;
+    justify-content: center;
+    color:whitesmoke;
+}
+.second img{
+    width: 287px;
+    height: 287px;
+}
+
+.second img{
+    width: 287px;
+    height: 287px;
+}
+.first img{
+width: 610px;
+height: 610px;
+}
+.f_img{
+        width: 287px;
+        height: 287px;
+    
+}
+
+.bigboss{
+    position: relative;
+}
+.dance{
+    position: absolute;
+    top: 0;
+}
+.lawn_img{
+    width: 100%;
+}
+.dance_img{
+    width: 50%;
+}
+h1{
+    color: #C2035A;
+}
+
+footer{
+    background:linear-gradient(180deg, #9CB53A 0%, #2B6E14 100%);
+}

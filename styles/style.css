@@ -1,0 +1,100 @@
+.banner{
+    width: 100%;
+    height: 466px;
+    background-size:100%;
+    background-image:
+    linear-gradient(269.85deg, rgba(30, 24, 21, 0.52) 30.09%, rgba(196, 196, 196, 0) 99.9%),
+    url('../images/girl\ room.png');
+    text-align:end;
+    align-items: center;
+    justify-content: center;
+    color:whitesmoke;
+}
+.swadesh{
+    width: 50%;
+}
+
+
+.first{
+width: 386px;
+height: 399px;
+
+background: linear-gradient(197.55deg, #C2035A 6.42%, #DD3333 87.99%);
+box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.15);
+border-radius: 10px;
+}
+
+.second{
+    
+    width: 386px;
+    height: 446px;
+    
+    background: linear-gradient(207.52deg, #4C6FA2 2.71%, #10356C 92.28%);
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.15);
+    border-radius: 10px;
+}
+
+.third{
+    
+    width: 386px;
+    height: 399px;
+        
+    background: linear-gradient(210.25deg, #C30F5F 6.15%, #FF3382 92.27%);
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.15);
+    border-radius: 10px;
+}
+
+.color_primary{
+    color: white;
+}
+footer{
+    background:linear-gradient(180deg, #9CB53A 0%, #2B6E14 100%);
+}
+.bigboss{
+    position: relative;
+}
+.dance{
+    position: absolute;
+    top: 0;
+}
+.lawn_img{
+    width: 100%;
+}
+.dance_img{
+    width: 50%;
+}
+h1{
+    color: #C2035A;
+}
+
+.vector{
+    position: relative;
+}
+.vector_img{
+    position: relative;
+    left: 25%;
+    right: 38.25%;
+    top: -25.32%;
+    bottom: 45.2%;
+
+    transform: rotate(75deg);
+}
+.fam{
+    position: absolute;
+    top:0;
+    right: 5%;
+}
+
+.main{
+    position: relative;
+}
+.gift{ 
+    width: 250%;
+}
+.girl_gift{
+    position: absolute;
+    left: 70.17%;
+    right: 6.81%;
+    top: 65.94%;
+    bottom: 70.5%;
+}
